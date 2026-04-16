@@ -1,4 +1,4 @@
-# Semantic-drift
+# Semantic Drift
 
 - This project studies semantic drift, how the meaning and usage of words evolve over time in online communities.
 
