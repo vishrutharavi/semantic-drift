@@ -46,7 +46,7 @@ Semantic Drift Detection
 
 ```
 
-Repository Structure
+## Repository Structure
 
 ```
 
