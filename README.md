@@ -72,5 +72,8 @@ Repository Structure
 
 ```
 
+## Raw and Preprocessed dataset Google Drive Link
+
+https://drive.google.com/drive/folders/1XJFM7M7VP6Gat6uU3pICbGzCpKtttkcK?usp=sharing
 
 
